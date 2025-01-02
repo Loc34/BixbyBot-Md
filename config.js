@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['+6282121378712', 'ᥣᦲᥫ', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -17,8 +17,8 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.mods = ['+6282121378712'] 
+global.prems = ['+6282121378712', 'xxxxxxxxxx']
 
 //────────────────────────────
 
@@ -59,20 +59,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
-global.author = '𝐌𝐝'
+global.packname = '𝐥𝐨𝐜𝐛𝐨𝐭'
+global.author = 'ᥣᦲᥫ'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = '𝐥𝐨𝐜𝐛𝐨𝐭'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = '𝐥𝐨𝐜𝐛𝐨𝐭'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
